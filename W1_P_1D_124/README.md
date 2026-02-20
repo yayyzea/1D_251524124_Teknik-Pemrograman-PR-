@@ -1,4 +1,3 @@
-Folder tugas minggu 1
-Nama   : Zahra Azkiya Rahmani
-Nim    : 251524124
-Kelas  : 1D-D4
+### 1D - 251524124 - Zahra Azkiya Rahmani 
+### Tugas Minggu 1
+### JobSheet - Week 1 - 
