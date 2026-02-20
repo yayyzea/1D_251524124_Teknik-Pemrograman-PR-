@@ -12,11 +12,12 @@ public class EmploymentType {
         this.type = type;
     }
 
-    // getter dan Setter
+    // getter dan setter
     public String getType() {
         return type;
     }
     public void setType(String type) {
         this.type = type;
     }
+
 }
